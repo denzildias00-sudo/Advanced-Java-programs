@@ -1,3 +1,1 @@
-program 9c o/p link :  https://github.com/denzildias00-sudo/Advanced-Java-programs/blob/master9/Program9b1.png  and
-                       https://github.com/denzildias00-sudo/Advanced-Java-programs/blob/master9/Program9b2.png   and
-                       https://github.com/denzildias00-sudo/Advanced-Java-programs/blob/master9/Program9b3.png
+program 9c o/p link :  https://github.com/denzildias00-sudo/Advanced-Java-programs/blob/master9/Program9c1.png  and
